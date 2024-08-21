@@ -54,7 +54,7 @@ The `SortOrder` enum provides the following sorting options:
 ### Examples
 
 ```php
-require_once 'src/customSort.php';
+require_once __DIR__ . '/../src/SortOrder.php';
 
 // Example 1: Ascending sort by 'age'
 $input = [
