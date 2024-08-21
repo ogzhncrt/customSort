@@ -33,8 +33,8 @@ The custom sorting function in this project allows developers to sort arrays of 
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ogzhncrt/customSort.git
+cd customSort
 ```
 
 
